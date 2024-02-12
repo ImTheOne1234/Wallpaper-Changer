@@ -1,0 +1,4 @@
+-- Hello an wallpaper changer
+--
+-- Run as Admin
+--
